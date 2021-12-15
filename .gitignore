@@ -1,0 +1,7 @@
+# Incremental Regeneration
+.jekyll-metadata
+
+# --------- Directories ---------
+# Generated Site
+_site/
+.jekyll-cache/
